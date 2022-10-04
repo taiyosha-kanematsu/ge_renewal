@@ -1,0 +1,25 @@
+/*
+Theme Name: eブックスリニューアル
+Template URI: http://localhost/wordpress_gifuebooks_local
+Description: ebooksリニューアルのベースcssです
+Author: 株式会社太洋社
+Author URL: https://www.p-taiyosha.co.jp/
+Version: 6.0
+*/
+
+
+@charset "utf-8";
+
+html { font-size: 62.5%; }
+
+body {
+	background-color: #fefffe;
+	font-family: Heebo,'YuGothic M','游ゴシック',YuGothic,'Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,sans-serif;
+	color: #201f22;
+}
+
+.site_contents_container{
+	color: blueviolet;
+}
+
+

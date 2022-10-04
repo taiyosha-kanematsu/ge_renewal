@@ -1,0 +1,55 @@
+/*
+Theme Name: eブックスリニューアル
+Template URI: http://localhost/wordpress_gifuebooks_local
+Description: ebooksリニューアルのフッターcssです
+Author: 株式会社太洋社
+Author URL: https://www.p-taiyosha.co.jp/
+Version: 6.0
+*/
+
+footer{
+	position: absolute;
+	bottom: 0;
+	background-color: #707576;
+	width: 100%;
+}
+.footer_nav_box{
+	width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 137px;
+	padding-top: 20px;
+}
+
+.fn_upper_box{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 80px;
+}
+.footer_nav{
+	width: 950px;
+	margin-left: 15px;
+	margin-right: 15px;
+	display: flex;
+	justify-content: center;
+	color: #ffffff;
+}
+.footer_nav li{
+	padding-left: 15px;
+	padding-right: 15px;
+	display: inline-block;
+	height: 20px;
+	line-height: 20px;
+	border-left: 1px solid #ffffff;
+	text-align: center;
+
+}
+.copyright_box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 36px;
+	background-color: #000000;
+	color: #ffffff;
+}
